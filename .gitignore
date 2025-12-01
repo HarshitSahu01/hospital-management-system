@@ -1,7 +1,0 @@
-venv
-.vscode
-package-lock.json
-__pycache__
-env
-.env
-.gitignore
